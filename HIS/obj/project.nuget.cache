@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lf9ZIEsay1Y=",
+  "success": true,
+  "projectFilePath": "D:\\Govita_2026\\HIS\\HIS\\HIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\hi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\hi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "D:\\Govita_2026\\HIS\\HIS\\HIS.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Govita_2026\\HIS\\HIS\\HIS.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
