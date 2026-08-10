@@ -77,3 +77,7 @@ _ReSharper*/
 # dotenv
 .env
 .env.*
+
+# .agents
+.agents/
+.agent/

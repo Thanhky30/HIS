@@ -8,7 +8,7 @@ namespace HIS.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "Freezing", "Bracing1233", "Chillyư423", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing1233", "Chillyư423", "Cool_thanh123", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
